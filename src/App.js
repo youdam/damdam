@@ -6,6 +6,8 @@ function App() {
 
 return(
   <div>
+    <h2> ??  </h2>
+    <h2> fffff </h2>
     <input type="text"/>
     <button>upload</button>
     {names.map((name) => {
